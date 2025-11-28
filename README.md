@@ -17,11 +17,24 @@
 ## 📂 Projetos em Destaque
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Spring%20Boot%20API-006400?style=for-the-badge&logo=spring&logoColor=white" />
+  <a href="https://github.com/aryellbr/restful-api-spring">
+    <img src="https://img.shields.io/badge/-Spring%20Boot%20API-006400?style=for-the-badge&logo=spring&logoColor=white" />
+  </a>
 </p>
 
 🔹 **RESTful API com Spring Boot** → [Repositório](https://github.com/aryellbr/restful-api-spring)  
 ✅ API organizada para gerenciamento de produtos, com CRUD completo e banco H2 para testes.  
+
+---
+
+<p align="center">
+  <a href="https://github.com/aryellbr/restful-api-node">
+    <img src="https://img.shields.io/badge/-Node.js%20API-006400?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+</p>
+
+🔹 **RESTful API com Node.js e Express** → [Repositório](https://github.com/aryellbr/restful-api-node)  
+✅ API para cadastro e gerenciamento de usuários com MongoDB, rotas bem estruturadas e validações.
 
 ---
 
