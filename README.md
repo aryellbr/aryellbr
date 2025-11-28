@@ -1,27 +1,7 @@
-<div style="
-  background: linear-gradient(135deg, #0d1117, #1a237e, #4a148c);
-  padding: 30px;
-  border-radius: 16px;
-  color: #fff;
-  font-family: Arial, sans-serif;
-">
-
-<style>
-  div * {
-    color: #fff !important;
-  }
-  a {
-    color: #58a6ff !important;
-    font-weight: bold;
-    text-decoration: none;
-  }
-  h2 {
-    margin-top: 25px;
-    border-bottom: 2px solid #58a6ff;
-    display: inline-block;
-    padding-bottom: 4px;
-  }
-</style>
+<p align="center">
+  <!-- Banner com gradiente (pode ser gerado em qualquer editor de imagem ou serviço como Canva) -->
+  <img src="https://raw.githubusercontent.com/aryellbr/portfolio-assets/main/banner-gradient.png" alt="Pedro Aryel — Full-Stack Developer" width="100%" />
+</p>
 
 <h1 align="center">✨ Pedro Aryel — Full-Stack Developer ✨</h1>
 
@@ -121,12 +101,10 @@ Estrutura sólida de rotas, controllers e validações.
 ---
 
 ## 🛤 Roadmap de Aprendizado
-
 - ✅ **Jan – Jun 2024:** Fundamentos de programação, lógica e Front-End básico  
 - ✅ **Jul – Set 2024:** React + TypeScript (componentização, hooks, integração com APIs)  
 - ✅ **Out – Dez 2024:** Node.js, Express, RESTful APIs e MongoDB  
-- 🔜 **Jan 2025 em diante:** Java, Spring Boot, PostgreSQL e arquitetura Back-end avançada
-
+- 🔜 **Jan 2025 em diante:** Java, Spring Boot, PostgreSQL e arquitetura Back-end avançada  
 
 ---
 
@@ -147,5 +125,3 @@ Estrutura sólida de rotas, controllers e validações.
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
 </p>
-
-</div>
