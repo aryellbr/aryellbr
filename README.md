@@ -1,26 +1,6 @@
-<p align="center">
-  <!-- Banner com gradiente (pode ser gerado em qualquer editor de imagem ou serviço como Canva) -->
-  <img src="https://raw.githubusercontent.com/aryellbr/portfolio-assets/main/banner-gradient.png" alt="Pedro Aryel — Full-Stack Developer" width="100%" />
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
 
-<h1 align="center">✨ Pedro Aryel — Full-Stack Developer ✨</h1>
-
-<p align="center">
-  <b>Full-Stack Developer</b> • Java & Spring • Node.js • PostgreSQL • MongoDB
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/aryelbr">🌐 LinkedIn</a> •
-  <a href="mailto:ia.pedronunes@gmail.com">📧 E-mail</a> •
-  📍 São Paulo — Brasil
-</p>
-
-<p align="center">
-  <!-- Badges -->
-  <img src="https://komarev.com/ghpvc/?username=aryellbr&color=58a6ff" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/aryellbr?style=flat&color=58a6ff" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/aryellbr?style=flat&color=58a6ff" alt="Stars"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006400&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Aryel;Sou+Desenvolvedor+Full-Stack;Java+%7C+Spring+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ---
 
@@ -35,68 +15,51 @@
 ---
 
 ## 📂 Projetos em Destaque
+- 🔹 **RESTful API com Spring Boot** → [Repositório](https://github.com/aryellbr/restful-api-spring)  
+  API organizada para gerenciamento de produtos, com CRUD completo e banco H2 para testes.  
 
-### 🔹 RESTful API com Spring Boot
-📌 [Repositório](https://github.com/aryellbr/restful-api-spring)  
-API organizada para gerenciamento de produtos, seguindo boas práticas de camadas.  
-Inclui CRUD completo e banco H2 para testes rápidos.
+- 🔹 **RESTful API com Node.js e Express** → [Repositório](https://github.com/aryellbr/restful-api-node)  
+  API para cadastro e gerenciamento de usuários com MongoDB, rotas bem estruturadas e validações.
 
 ---
 
-### 🔹 RESTful API com Node.js e Express
-📌 [Repositório](https://github.com/aryellbr/restful-api-node)  
-API para cadastro e gerenciamento de usuários com MongoDB.  
-Estrutura sólida de rotas, controllers e validações.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aryellbr&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Aryel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryellbr&layout=compact&hide_border=true&title_color=006400&text_color=006400&bg_color=0d1117" />
+</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryellbr&bg_color=0d1117&color=006400&line=006400&point=228B22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryellbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title_color=006400" />
+</p>
 
 ---
 
 ## 💻 Tecnologias & Ferramentas
 
 ### 🔧 Back-end
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="40" src="https://skillicons.dev/icons?i=express" />
-</p>
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&color=006400)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&color=006400)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&color=006400)&nbsp;
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&color=006400)&nbsp;
 
 ### 🗂 Bancos de Dados
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&color=006400)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&color=006400)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&color=006400)&nbsp;
 
 ### 🎨 Front-end
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</p>
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&color=006400)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&color=006400)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&color=006400)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&color=006400)&nbsp;
 
-### 🧰 Ferramentas e Conceitos
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
-</p>
-
-✔ RESTful APIs  
-✔ Arquitetura MVC  
-✔ JWT  
-✔ Código Limpo  
-✔ Design Patterns  
-✔ Testes básicos  
-
----
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryellbr&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryellbr&layout=compact&theme=tokyonight" height="160"/>
-</p>
+### 🧰 Ferramentas
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&color=006400)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&color=006400)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&color=006400)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-0D1117?style=for-the-badge&logo=apachemaven&labelColor=0D1117&color=006400)&nbsp;
 
 ---
 
@@ -104,14 +67,7 @@ Estrutura sólida de rotas, controllers e validações.
 - ✅ **Jan – Jun 2024:** Fundamentos de programação, lógica e Front-End básico  
 - ✅ **Jul – Set 2024:** React + TypeScript (componentização, hooks, integração com APIs)  
 - ✅ **Out – Dez 2024:** Node.js, Express, RESTful APIs e MongoDB  
-- 🔜 **Jan 2025 em diante:** Java, Spring Boot, PostgreSQL e arquitetura Back-end avançada  
-
----
-
-## 📌 O que estou buscando
-- 🚀 Oportunidade como Desenvolvedor Back-end (Estágio ou Júnior)  
-- 🤝 Colaboração em projetos reais com foco em APIs e arquitetura  
-- 📈 Evoluir tecnicamente e entregar soluções consistentes  
+- 🔜 **2025 em diante:** Java, Spring Boot, PostgreSQL e arquitetura Back-end avançada  
 
 ---
 
@@ -122,6 +78,4 @@ Estrutura sólida de rotas, controllers e validações.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
