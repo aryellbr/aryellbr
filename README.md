@@ -15,24 +15,22 @@
 ---
 
 ## 📂 Projetos em Destaque
-- 🔹 **RESTful API com Spring Boot** → [Repositório](https://github.com/aryellbr/restful-api-spring)  
-  API organizada para gerenciamento de produtos, com CRUD completo e banco H2 para testes.  
 
-- 🔹 **RESTful API com Node.js e Express** → [Repositório](https://github.com/aryellbr/restful-api-node)  
-  API para cadastro e gerenciamento de usuários com MongoDB, rotas bem estruturadas e validações.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Spring%20Boot%20API-006400?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
+
+🔹 **RESTful API com Spring Boot** → [Repositório](https://github.com/aryellbr/restful-api-spring)  
+✅ API organizada para gerenciamento de produtos, com CRUD completo e banco H2 para testes.  
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aryellbr&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Aryel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryellbr&layout=compact&hide_border=true&title_color=006400&text_color=006400&bg_color=0d1117" />
-</div>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryellbr&bg_color=0d1117&color=006400&line=006400&point=228B22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryellbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title_color=006400" />
+  <img src="https://img.shields.io/badge/-Node.js%20API-006400?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
+
+🔹 **RESTful API com Node.js e Express** → [Repositório](https://github.com/aryellbr/restful-api-node)  
+✅ API para cadastro e gerenciamento de usuários com MongoDB, rotas bem estruturadas e validações.
 
 ---
 
@@ -60,6 +58,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&color=006400)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&color=006400)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-0D1117?style=for-the-badge&logo=apachemaven&labelColor=0D1117&color=006400)&nbsp;
+
+---
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aryellbr&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Aryel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryellbr&layout=compact&hide_border=true&title_color=006400&text_color=006400&bg_color=0d1117" />
+</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryellbr&bg_color=0d1117&color=006400&line=006400&point=228B22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
