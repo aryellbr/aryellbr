@@ -12,20 +12,6 @@
 
 > "Clean code always looks like it was written by someone who cares." — Robert C. Martin
 
----
-
-## 📂 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/aryellbr/restful-api-spring">
-    <img src="https://img.shields.io/badge/-Spring%20Boot%20API-006400?style=for-the-badge&logo=spring&logoColor=white" />
-  </a>
-</p>
-
-🔹 **RESTful API com Spring Boot** → [Repositório](https://github.com/aryellbr/restful-api-spring)  
-✅ API organizada para gerenciamento de produtos, com CRUD completo e banco H2 para testes.  
-
----
 
 <p align="center">
   <a href="https://github.com/aryellbr/restful-api-node">
