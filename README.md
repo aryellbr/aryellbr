@@ -13,11 +13,7 @@
 > "Clean code always looks like it was written by someone who cares." — Robert C. Martin
 
 
-<p align="center">
-  <a href="https://github.com/aryellbr/restful-api-node">
-    <img src="https://img.shields.io/badge/-Node.js%20API-006400?style=for-the-badge&logo=node.js&logoColor=white" />
-  </a>
-</p>
+
 
 
 
