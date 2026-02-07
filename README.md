@@ -19,10 +19,7 @@
   </a>
 </p>
 
-🔹 **RESTful API com Node.js e Express** → [Repositório](https://github.com/aryellbr/restful-api-node)  
-✅ API para cadastro e gerenciamento de usuários com MongoDB, rotas bem estruturadas e validações.
 
----
 
 ## 💻 Tecnologias & Ferramentas
 
